@@ -11,7 +11,7 @@
 body {
     position: relative;
     /*background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);;*/
-    background: #EAF6FB;
+    background: #F6FAFB;
     font-family: "Roboto", sans-serif;
     width: 100%;
     height: 100%;
@@ -27,7 +27,7 @@ body {
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    background: #EAF6FB;
+    background: #F6FAFB;
     transition: opacity 0.5s ease;
 }
 
@@ -85,7 +85,7 @@ body {
     font-size: 30px;
     font-weight: 500;
     font-family: "Great Vibes", cursive;
-    color: #302b63;
+    color: #8BBACF;
 }
 
 .overlay .overlay-content .toggle-button .buka {
@@ -227,7 +227,7 @@ section {
     # Intro
 ============================================================================================*/
 .card section.intro {
-    background: url(../images/intro2-bg.png), linear-gradient(to right, #EAF6FB, #DCEFF9, #CBE4F6);
+    background: url(../images/intro2-bg.png), linear-gradient(to right, #F6FAFB, #E8F4F8, #DDEFF1);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -292,7 +292,7 @@ section {
     justify-content: center;
     gap: 10px;
     padding: 50px 0px;
-    background: linear-gradient(to right, #EAF6FB, #DCEFF9, #CBE4F6);
+    background: linear-gradient(to right, #F6FAFB, #E8F4F8, #DDEFF1);
     min-height: 100vh;
 }
 
@@ -773,7 +773,7 @@ section {
     border: 1px solid grey;
     /* background: linear-gradient(90deg, #E5BDF6, #D8DEDE) !important; */
     /* background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);; */
-    background: #EAF6FB;
+    background: #F6FAFB;
     cursor: pointer;
     gap: 10px;
 }
@@ -781,7 +781,7 @@ section {
 .card section.info .rsvp .beri-ucapan-button button:hover {
     /* background: linear-gradient(90deg, #E5BDF6, #D8DEDE) !important; */
     /* background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);; */
-    background: #EAF6FB;
+    background: #F6FAFB;
     opacity: 0.8;
 }
 
@@ -1014,7 +1014,7 @@ section {
     border-radius: 5px;
     gap: 5px;
     cursor: pointer;
-    background: #EAF6FB;
+    background: #F6FAFB;
 }
 
 .toggle-menu .rsvp .button button:hover {
@@ -1055,7 +1055,7 @@ section {
     border-radius: 5px;
     gap: 5px;
     cursor: pointer;
-    background: #EAF6FB;
+    background: #F6FAFB;
 }
 
 .toggle-menu .contact .button button:hover {
@@ -1086,7 +1086,7 @@ section {
     border-radius: 5px;
     gap: 5px;
     cursor: pointer;
-    background: #EAF6FB;
+    background: #F6FAFB;
 }
 
 .toggle-menu .gift .button button:hover {
@@ -1148,12 +1148,12 @@ section {
     border-radius: 5px;
     padding: 8px 6px;
     cursor: pointer;
-    background: #EAF6FB;
+    background: #F6FAFB;
     gap: 5px;
 }
 
 .toggle-menu .ucapan-tetamu .button button:hover {
-    background: #EAF6FB;
+    background: #F6FAFB;
     opacity: 0.9;
 }
 
