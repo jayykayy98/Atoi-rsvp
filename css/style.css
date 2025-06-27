@@ -10,7 +10,7 @@
 
 body {
     position: relative;
-    /*background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);;*/
+    /*background: linear-gradient(to right, #EAF6FB, #DCEFF9, #CBE4F6);;*/
     background: #F6FAFB;
     font-family: "Roboto", sans-serif;
     width: 100%;
@@ -180,7 +180,7 @@ body {
     position: absolute;
     left: -10px;
     /* Start just off the left edge of the card */
-    background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);
+    background: linear-gradient(to right, #EAF6FB, #DCEFF9, #CBE4F6);
     border-radius: 50%;
     /* Rounded shape */
     opacity: 0.5;
@@ -772,7 +772,7 @@ section {
     border-radius: 10px;
     border: 1px solid grey;
     /* background: linear-gradient(90deg, #E5BDF6, #D8DEDE) !important; */
-    /* background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);; */
+    /* background: linear-gradient(to right, #EAF6FB, #DCEFF9, #CBE4F6);; */
     background: #F6FAFB;
     cursor: pointer;
     gap: 10px;
@@ -780,7 +780,7 @@ section {
 
 .card section.info .rsvp .beri-ucapan-button button:hover {
     /* background: linear-gradient(90deg, #E5BDF6, #D8DEDE) !important; */
-    /* background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);; */
+    /* background: linear-gradient(to right, #EAF6FB, #DCEFF9, #CBE4F6);; */
     background: #F6FAFB;
     opacity: 0.8;
 }
@@ -810,7 +810,7 @@ section {
 .footer ul.menu {
     max-width: 420px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-    background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);
+    background: linear-gradient(to right, #EAF6FB, #DCEFF9, #CBE4F6);
     border-radius: 20px 20px 0 0;
     height: 4rem;
     padding: 0 16px;
@@ -844,7 +844,7 @@ section {
     right: 0;
     max-width: 400px;
     margin: 0 auto;
-    background: linear-gradient(to right, #fce4ec, #f8bbd0, #c8e6c9);
+    background: linear-gradient(to right, #EAF6FB, #DCEFF9, #CBE4F6);
     box-shadow: 0 -10px 20px rgba(0, 0, 0, 0.2);
     padding: 20px;
     transition: bottom 0.4s;
